@@ -30,7 +30,9 @@ h3 {
   opacity: 0.7;
   color: rgb(47, 45, 45);
 }
-
+image {
+  border-radius: 100px;
+}
 p {
   margin: 0px 20px;
   font-size: 24px;
